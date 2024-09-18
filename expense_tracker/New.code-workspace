@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../flutter_seconed"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New",
+		"dart.experimentalRefactors": true,
+		"dart.debugSdkLibraries": true,
+		"CodeGPT.apiKey": "CodeGPT Plus Beta"
+	}
+}
